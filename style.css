@@ -1,0 +1,13 @@
+
+.section1{
+    width: 1%;
+    height: 400%;
+    border: 30px solid burlywood;
+    background-size: 50px 50px;
+}
+.section2{
+    width: 1%;
+    height: 400%;
+    border: 30px solid rgb(112, 69, 12);
+    background-size: 50px 50px;
+}
